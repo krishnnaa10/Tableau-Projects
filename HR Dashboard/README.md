@@ -41,7 +41,14 @@ The income analysis section should focus on salary-related metrics, including:
 + Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
 + Present how the age correlate with the salary for employees in each department.
 
-## Employee Records View
+## Employee Details View
 
 + Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 + Users should be able to filter the list based on any of the available columns.
+
+### Dashboard
+
+<img width="700" alt="HR  Summary" src="https://github.com/user-attachments/assets/dbf83c8f-e2f8-4cb9-8b05-f9e2537104e6">
+<img width="700" alt="HR  Details" src="https://github.com/user-attachments/assets/b6515d48-8fc0-4996-b99c-caa45afd248c">
+
+
